@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="waypoint.model.AllocatorContractTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2026-11-25T05:38:45.577Z" hostname="HIMAVANTH-SAI-G" time="0.261">
+  <properties/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@3688eb5b" classname="waypoint.model.AllocatorContractTest" time="0.107"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@66c61024" classname="waypoint.model.AllocatorContractTest" time="0.007"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@3cdf2c61" classname="waypoint.model.AllocatorContractTest" time="0.022"/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@54e7df6a" classname="waypoint.model.AllocatorContractTest" time="0.017"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@4c1f22f3" classname="waypoint.model.AllocatorContractTest" time="0.003"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@598bd2ba" classname="waypoint.model.AllocatorContractTest" time="0.004"/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@2c07545f" classname="waypoint.model.AllocatorContractTest" time="0.003"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@34c01041" classname="waypoint.model.AllocatorContractTest" time="0.001"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@76f4b65" classname="waypoint.model.AllocatorContractTest" time="0.002"/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@c94fd30" classname="waypoint.model.AllocatorContractTest" time="0.001"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@36328d33" classname="waypoint.model.AllocatorContractTest" time="0.003"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@545b995e" classname="waypoint.model.AllocatorContractTest" time="0.002"/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@76a2ddf3" classname="waypoint.model.AllocatorContractTest" time="0.004"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@2ef14fe" classname="waypoint.model.AllocatorContractTest" time="0.003"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@77102b91" classname="waypoint.model.AllocatorContractTest" time="0.002"/>
+  <testcase name="[1] waypoint.model.NearestFirstAllocator@45312be2" classname="waypoint.model.AllocatorContractTest" time="0.004"/>
+  <testcase name="[2] waypoint.model.LevelBalancingAllocator@ab7395e" classname="waypoint.model.AllocatorContractTest" time="0.001"/>
+  <testcase name="[3] waypoint.model.SizeFitAllocator@50d13246" classname="waypoint.model.AllocatorContractTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
